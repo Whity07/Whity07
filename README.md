@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Whity07
 - 👀 I’m interested in codin...
-- 🌱 I’m currently learning Java / PHP / Latein :off:
+- 🌱 I’m currently learning Java / PHP / Latin :off:
 - 📫 How to reach me mostly E-Mail: mail@philip-weiss.de :)
 
 <!---
